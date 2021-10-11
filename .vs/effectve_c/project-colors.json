@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9b10d6f-faba-40b1-a243-8c91ba749db4": {
+      "ProjectGuid": "d9b10d6f-faba-40b1-a243-8c91ba749db4",
+      "DisplayName": "ch01_01_hello",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
